@@ -11,7 +11,7 @@
     <div>
     En till. En stor och stark. Fast helt nyttigt är det kanske inte. 
 
-        Nu har jag en utvecklingsbranch
+        Nu har jag en utvecklingsbranch.
     </div>
     </form>
 </body>
